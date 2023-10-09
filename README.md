@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Application Developer
 ---------------------
 
-I'm a third-year Computer Science B.Tech student at Vellore Institute of Technology, Vellore with a strong academic background. I completed my schooling at Allahabad Public School and St. Joseph's College, where I developed a solid foundation in computer science. I'm proficient in Java, C++, and C, and I have practical experience in application development using Flutter (Dart), Java, and Kotlin. My skills also encompass database management, including SQL and NoSQL databases, and I'm adept at using tools like MongoDB and Firebase.
+I'm a third-year Computer Science B.Tech student at Vellore Institute of Technology, Vellore with a strong academic background. I completed my schooling at Allahabad Public School,Prayagraj and St. Joseph's College,Prayagraj where I developed a solid foundation in computer science. I'm proficient in Java, C++, and C, and I have practical experience in application development using Flutter (Dart), Java, and Kotlin. My skills also encompass database management, including SQL and NoSQL databases, and I'm adept at using tools like MongoDB and Firebase.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [maheshwari.avaneesh8@gmail.com](mailto:maheshwari.avaneesh8@gmail.com)
